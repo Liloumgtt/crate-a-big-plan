@@ -1,2 +1,2 @@
-# crate-a-big-plan
+# create-a-big-plan
 Créer un plan pour apprendre à décrypter Github
